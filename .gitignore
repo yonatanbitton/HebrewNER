@@ -1,0 +1,46 @@
+__pycahe__/
+*.pyc
+/static/ammap/*
+
+# XML
+**/.idea/workspace.xml
+**/.idea
+**/.idea/misc.xml
+*./xml
+.idea/
+.idea
+*.idea
+*./.idea
+
+lemlda
+/lemlda
+
+
+train_data.csv
+test_data.csv
+train_data - Copy.csv
+test_data - Copy.csv
+cc.he.300.vec
+*.vec
+
+resources/train_data.csv
+resources/test_data.csv
+resources/train_data_experiment.csv
+resources/test_data_experiment.csv
+resources/train_data_experiments.csv
+resources/test_data_experiments.csv
+resources/dataset_biluo_readable.csv
+
+dataset_biluo_readable
+resources/dataset_biluo_readable
+old_files
+resources/old_files
+
+.ipynb_checkpoints
+ipynb_checkpoints
+
+resources
+
+Unused
+
+__pycache__ 

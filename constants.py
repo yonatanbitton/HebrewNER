@@ -1,0 +1,7 @@
+CRF_MODEL = 'crf'
+LOGISTIC_REGRESSION_MODEL = 'logistic_regression'
+PASSIVE_AGGRESSIVE_MODEL = 'passive_aggressive'
+RANDOM_FOREST_MODEL = 'random_forest'
+DECISION_TREE_MODEL = 'decision_tree'
+SVM_MODEL = 'svm'
+NAIVE_BAYES_MODEL = 'naive_bayes'
