@@ -110,8 +110,7 @@ class ClfModel:
         gammas = [0.001, 0.01, 0.1, 1, 2]
         parameters = {
             'classifier__C': Cs,
-            'classifier__gamma': gammas,
-            'classifier__class_weight': ['balanced', None]
+            'classifier__gamma': gammas
         }
         # Consider adding class weights
         return parameters
