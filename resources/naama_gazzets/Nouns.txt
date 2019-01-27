@@ -1,0 +1,49 @@
+TIME שעה
+TIME חצות
+DATE יום
+DATE חג
+DATE המאה
+DATE שנות
+DATE רבעון הראשון של
+DATE רבעון השני של
+DATE רבעון השלישי של
+DATE רבעון הרביעי של
+DATE רבעון האחרון של
+DATE רבעון ראשון של
+DATE רבעון שני של
+DATE רבעון שלישי של
+DATE רבעון רביעי של
+DATE רבעון אחרון של
+LOC רחוב
+LOC רח'
+LOC שדרות
+LOC שכונת
+LOC שכונה
+LOC צומת
+LOC קיבוץ
+LOC מושב
+LOC שטחים
+LOC בקעה
+LOC בקעת הירדן
+LOC כביש
+LOC מחוז
+LOC הר
+LOC כפר
+ORG מכבי
+ORG הפועל
+ORG בית"ר
+ORG ממשלת
+ORG משרד
+ORG פיקוד
+ORG חיל
+ORG ועדת
+ORG משטרת
+ORG מועצת
+ORG עיריית
+ORG קרן
+ORG אוניברסיטת
+ORG מדינת
+ORG ישיבת
+ORG התאחדות
+ORG איגוד
+ORG רשות

@@ -30,16 +30,17 @@ resources/test_data_experiment.csv
 resources/train_data_experiments.csv
 resources/test_data_experiments.csv
 resources/dataset_biluo_readable.csv
+resources/merged_output
 
 dataset_biluo_readable
 resources/dataset_biluo_readable
 old_files
 resources/old_files
+resources/yael_corpus
 
 .ipynb_checkpoints
 ipynb_checkpoints
 
-resources
 
 Unused
 

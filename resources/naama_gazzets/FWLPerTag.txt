@@ -1,0 +1,383 @@
+DATE 1988
+PERS מוחמד דיף
+DATE 1984
+DATE 31 בדצמבר 2004
+DATE אפריל
+LOC תל אביב
+LOC בנהריה
+PERS כהנא
+DATE 1958
+MISC__AFF ליהודים
+ORG כך
+PERS חלאסקו
+MISC__AFF אמריקאי
+MISC__AFF הישראלית
+MONEY 57 אלף שקל
+ORG משרד האוצר
+LOC בארץ ישראל
+MISC__AFF הישראלים
+PERS וולסטון
+ORG האו"ם
+ORG בוסטון גלוב
+MISC__AFF היהודי
+PERS כספי
+LOC ישראל
+PERS קובי פינקלר
+PERS בן דוד
+ORG שירות התעסוקה
+PERS פנקייביץ
+PERS א - שרע
+PERS גורג בוש
+MISC__AFF הנאצים
+DATE 31 במרס 2005
+DATE 31 במרס 2004
+PERS הארקין
+LOC מפולין
+PERS ג'ורג' טנט
+LOC לבנון
+PERS עבדל ראזק יחיא
+ORG דובר צה"ל
+DATE 15.5.05
+ORG האיחוד האירופי
+PERS בלומה
+ORG תנועת המושבים
+ORG פיקוד המרכז
+DATE אפריל 2005
+PERS שרון
+ORG קרן מקארתור
+PERS שרדר
+PERS חיים פרץ ברמן
+ORG לערוץ 7
+MISC__AFF הצרפתי
+PERS גרינברג
+LOC מקהיר
+ORG מעלות
+ORG F5
+LOC ארצות הברית
+MISC__AFF הקומוניסטית
+ORG בית הדין הצבאי
+LOC במוסקווה
+PERS מאיר כהנא
+PERS בנימין נתניהו
+ORG סנקטום
+LOC ארה"ב
+PERS מובארק
+PERS וגרינברג
+PERS ערפאת
+ORG התאחדות התעשיינים
+ORG בג"צ
+ORG ברש"פ
+ORG בית המשפט העליון
+PERS ברוש
+ORG מסדר ציון
+MISC__AFF הפולני
+ORG החמאס
+LOC בסין
+MISC__AFF ישראליים
+ORG משמר הגבול
+ORG הרשות הפלשתינית
+LOC בעיראק
+LOC אורנית
+PERS ישוע
+LOC קנדה
+PERS שטייף
+PERS קולק
+DATE מרס
+ORG עתי"ם
+MISC__AFF ישראליות
+PERS בראון
+PERS בושוויץ
+MONEY הדולר
+LOC קרקוב
+LOC שישראל
+ORG אל על
+PERS שרגא ברוש
+PERS ברש
+PERS ברק
+MISC__AFF הנאצית
+PERS קשטן
+ORG סטאר-נייט
+PERS באקוולד
+ORG וושינגטון פוסט
+LOC בניו - יורק
+PERS אסתר שטיינבך
+MISC__AFF הצרפתית
+MISC__AFF הצרפתים
+MISC__AFF הבריטי
+LOC בבלומפילד
+ORG שופרסל
+PERS סאלם איסמעיל מובארק
+ORG רשות שדות התעופה
+MISC__AFF ערבי
+ORG אורדן
+ORG הפתח'
+PERS בלדה
+PERS אריאל שרון
+PERS מצא
+MISC__AFF ערב
+LOC הים השחור
+MONEY השקל
+LOC מסצוסטס
+LOC צופים
+ORG לכנסת
+MISC__AFF הפלשתיני
+LOC יהודה
+PERS ללקין
+ORG טמבור
+PERS בוש
+LOC בתל אביב
+PERS קוצ'מה
+PERS מרקוביץ'
+LOC איובה
+PERS ג'ורג' בוש
+LOC הר הבית
+ORG ממשרד הבריאות
+MISC__AFF אמריקנים
+LOC שארה"ב
+LOC עזה
+MISC__AFF הלטינו
+PERS רוזנפלדר
+MISC__AFF ישראלית
+MISC__AFF ישראלים
+LOC במזרח התיכון
+DATE חג הפסח
+LOC באשדוד
+LOC לירושלים
+PERS מילר
+MISC__AFF אמריקאיות
+LOC במפרץ הפרסי
+MISC__AFF הערבית
+ORG אש"ף
+MISC__AFF הערבים
+ORG ויקטורי
+LOC ירושלים
+MISC__AFF הערבי
+LOC בית חנון
+PERS פרס
+ORG חיל האוויר
+PERS אביטל
+MISC__AFF בערבים
+ORG עם ישראל
+PERS ריצארדס
+MISC__AFF שהאמריקאים
+ORG הכנסייה הקתולית
+LOC בחברון
+PERS דפנה שפרוך
+LOC וירושלים
+ORG מעריב
+LOC הירדן
+LOC מאנגליה
+MISC__AFF הפלשתינית
+ORG הארץ
+LOC חבל עזה
+MISC__AFF יהודי
+LOC בישראל
+PERCENT 30%
+PERS ברמן
+LOC רוסיה
+MISC__AFF פלשתינים
+LOC לפולין
+ORG המפלגה הדמוקרטית
+ORG צה"ל
+MISC_EVENT האינתיפאדה
+PERS עופר
+MISC__AFF יהודים
+PERS נאית
+PERS אליקים העצני
+LOC בארצות הברית
+PERS שייט
+MISC__AFF פלשתיני
+PERS אבו מאזן
+MISC__AFF ישראלי
+MISC__AFF המוסלמי
+LOC אסואן
+MISC__AFF ערביים
+PERS גינוסר
+LOC במינסוטה
+MISC__AFF לפלשתינאים
+ORG בז"ן
+LOC אירופה
+MISC__AFF הגרמני
+MISC__ENT להרוג את הכלב השני
+ORG מועצת יש"ע
+LOC פולין
+ORG דנאל
+MONEY האירו
+LOC בצרפת
+DATE ב'
+LOC גרמניה
+ORG קוקה קולה
+ORG משרד הבריאות
+LOC בארה"ב
+MISC__AFF פלשתינאים
+ORG ישיבת פוניבז'
+ORG רשות המסים
+DATE ביום שלישי
+LOC בשטחים
+LOC בסוריה
+MISC__AFF ביהודים
+ORG סרגון
+LOC בוורשה
+MISC__AFF חרדים
+LOC צרפת
+MISC__AFF פולני
+PERCENT 4.6%
+PERS וכהנא
+PERS הנגבי
+PERS הראל
+ORG ההתאחדות לספורט
+PERS אוריאל לין
+ORG כנסת
+LOC לבית לחם
+PERS גורג
+MISC__AFF המוסלמית
+PERCENT 23%
+MISC__AFF המוסלמים
+LOC באירופה
+PERS מארק חלאסקו
+PERS שמיר
+LOC אמריקה
+LOC מכורה
+ORG בצה"ל
+MISC__AFF הישראלי
+LOC הנילוס
+LOC מתאילנד
+ORG גשרי תרבות
+ORG המחתרת היהודית
+ORG איגוד הפועלים החקלאיים
+PERCENT 7%
+LOC שבישראל
+ORG בזק
+LOC אלכסנדריה
+MISC__AFF האמריקני
+LOC ארץ ישראל
+DATE ביום ראשון
+PERCENT 5%
+ORG ממשלת ישראל
+MISC__ENT היום השמיני של השבוע
+LOC בניו יורק
+DATE ביוני
+LOC בהר הבית
+ORG השב"כ
+PERS ארנון
+LOC מישראל
+PERS מארק
+ORG רשות הדואר
+LOC במינכן
+DATE יולי
+MISC__ENT צופן דה וינצ'י
+LOC וושינגטון
+PERS ורטהיים
+LOC ברצועה
+ORG C.I.A.
+PERS מאיר שטרית
+LOC טקסס
+PERCENT 4.7%
+LOC בירושלים
+ORG הרש"פ
+PERS טירן פולק
+PERS אבו-ג'וייד
+PERS נתניהו
+MISC__AFF היהודים
+PERS סוניה
+PERS היטלר
+MISC__AFF האמריקאי
+MISC__AFF ויהודים
+LOC ברצועת עזה
+MISC__AFF היהודית
+MISC__AFF ערבים
+DATE ביום שישי
+PERS רז
+PERS ניסים דהן
+PERS שוויד
+MISC__AFF אמריקאית
+MISC__AFF אמריקאים
+ORG בכנסת
+ORG הציונות
+DATE ביום שני
+PERS בוסקה
+ORG בית הרב
+LOC איראן
+MISC__AFF ערביי
+PERS שגב
+PERS טוקי
+ORG הליכוד
+DATE 2006
+DATE 2005
+DATE 2004
+DATE 2003
+PERS בורחס
+ORG מקורות
+MISC__AFF פולנים
+PERS טובייה
+PERS סילבר
+PERS עוז
+LOC ביש"ע
+ORG משטרת ישראל
+PERS יורק פרס
+LOC מצרים
+LOC לירדן
+PERS זמאן
+LOC ברוסיה
+MISC__AFF האמריקאית
+MISC__AFF האמריקאים
+ORG העבודה
+PERS גרוסבורד
+MISC__AFF שוודים
+ORG החברה קדישא
+LOC עיראק
+LOC באמריקה
+PERS פאפון
+PERS סדאם חוסיין
+LOC יש"ע
+PERCENT 12%
+LOC בתל - אביב
+PERS שערפאת
+LOC בפולין
+LOC ברמאללה
+ORG קבוצת עזריאלי
+ORG לסנאט
+LOC ברפיח
+LOC תל - אביב
+TIME 1430
+PERS יחיא
+PERS בכהנא
+MONEY 100 מיליון דולר
+MISC__AFF הפלשתינאים
+ORG תחנת נהריה
+LOC בשכם
+DATE בשבת
+PERS גולדשטיין
+LOC בירדן
+LOC באר שבע
+LOC רמאללה
+ORG צ'ק פוינט
+LOC בבגדאד
+ORG האוצר
+LOC שומרון
+ORG הבית הלבן
+MISC__AFF פלשתיניים
+ORG בנק ישראל
+LOC בוואשינגטון
+ORG קוקה קולה ישראל
+MISC__AFF הפלשתיניים
+PERCENT 5.4%
+LOC ניו זילנד
+LOC בעכו
+MISC_EVENT השואה
+ORG משרד המשטרה
+LOC באיובה
+MISC__AFF הפולנית
+ORG הכנסת
+MISC__AFF הפולנים
+ORG משרד החוץ
+MISC__AFF לערבים
+PERS שמעון פרס
+DATE בינואר
+MISC__AFF הפלשתינים
+ORG בסנאט
+DATE באפריל
+PERS אברבוך
+ORG מדינת ישראל
+LOC לישראל
+DATE 1990

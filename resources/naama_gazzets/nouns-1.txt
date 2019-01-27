@@ -1,0 +1,81 @@
+DATE חודש
+DATE שנה
+DATE שנת
+DATE ב
+DATE ב-
+DATE תחילת
+DATE סוף
+DATE אמצע
+DATE במהלך
+DATE שנות
+DATE חג
+DATE יום
+DATE רבעון הראשון של
+DATE רבעון השני של
+DATE רבעון השלישי של
+DATE רבעון הרביעי של
+DATE רבעון האחרון של
+DATE רבעון ראשון של
+DATE רבעון שני של
+DATE רבעון שלישי של
+DATE רבעון רביעי של
+DATE רבעון אחרון של
+PERS מר
+PERS גברת
+PERS ח"כ
+PERS הכנסת
+PERS הרב
+PERS עו"ד
+PERS הממשלה
+PERS משפחת
+LOC עיר
+LOC עיירה
+LOC ישוב
+LOC דרום
+LOC צפון
+LOC מזרח
+LOC מערב
+LOC מחוז
+LOC הר
+LOC כפר
+LOC רחוב
+LOC רח'
+LOC שדרות
+LOC שכונת
+LOC שכונה
+LOC צומת
+LOC קיבוץ
+LOC מושב
+LOC כביש
+PERCENT מ
+PERCENT מ-
+PERCENT ב
+PERCENT ב-
+PERCENT עד
+PERCENT פחות
+PERCENT יותר
+PERCENT קטן
+PERCENT גדול
+PERCENT בערך
+ORG מכבי
+ORG הפועל
+ORG בית"ר
+ORG ממשלת
+ORG משרד
+ORG פיקוד
+ORG חיל
+ORG ועדת
+ORG משטרת
+ORG מועצת
+ORG עיריית
+ORG קרן
+ORG אוניברסיטת
+ORG מדינת
+ORG ישיבת
+ORG חברת
+ORG יו"ר
+ORG מנכ"ל
+ORG איגוד
+ORG התאחדות
+ORG רשות
+TIME שעה

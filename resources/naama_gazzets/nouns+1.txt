@@ -1,0 +1,6 @@
+PERS ז"ל
+PERS זצ"ל
+PERS הי"ד
+DATE שעבר
+DATE הקרוב
+DATE האחרון
