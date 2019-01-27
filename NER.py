@@ -44,7 +44,7 @@ class ClfModel:
         elif model_type == DECISION_TREE_MODEL:
             classifier = DecisionTreeClassifier()
         elif model_type == SVM_MODEL:
-            classifier = SVC(kernel='linear', C=1, gamma=0.001)
+            classifier = SVC(kernel='linear', C=1.2)
         elif model_type == NAIVE_BAYES_MODEL:
             # classifier = MultinomialNB() # Can't use with negative values
             classifier = GaussianNB()
@@ -396,8 +396,8 @@ def main():
 
     print(f"training {model_type} Model")
     clf_model = ClfModel(model_type=model_type)
-    # clf_model.train(X_train, y_train)
-    clf_model.train_by_grid_search(X_train, y_train)
+    clf_model.train(X_train, y_train)
+    # clf_model.train_by_grid_search(X_train, y_train)
 
     y_pred = clf_model.predict(X_test=X_test)
     cross_tab, report, report_with_O = clf_model.evaluate(y_true=y_test, y_pred=y_pred)
@@ -405,15 +405,15 @@ def main():
     print(report)
     print(report_with_O)
     print(cross_tab)
-
-    if clf_model.model_type in {DECISION_TREE_MODEL, RANDOM_FOREST_MODEL}:
-        print_tree_feature_importance(X_train, clf_model)
-
-    print("Trying again with exploiting previous tags")
-    X_train_with_tag, tree_model_with_tags = retrain_with_exploit_previous_tags(X_test, X_train, y_test, y_train, model_type)
-
-    if clf_model.model_type in {'decision_tree', 'random_forest'}:
-        print_tree_feature_importance(X_train_with_tag, tree_model_with_tags)
+    #
+    # if clf_model.model_type in {DECISION_TREE_MODEL, RANDOM_FOREST_MODEL}:
+    #     print_tree_feature_importance(X_train, clf_model)
+    #
+    # print("Trying again with exploiting previous tags")
+    # X_train_with_tag, tree_model_with_tags = retrain_with_exploit_previous_tags(X_test, X_train, y_test, y_train, model_type)
+    #
+    # if clf_model.model_type in {'decision_tree', 'random_forest'}:
+    #     print_tree_feature_importance(X_train_with_tag, tree_model_with_tags)
 
 
 def make_dataset_with_dummies(X_transformed, dummies_cols):
