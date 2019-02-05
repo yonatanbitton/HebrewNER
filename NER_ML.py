@@ -482,6 +482,18 @@ def print_tree_feature_importance(X_train, tree_model):
     for key, value in sorted(feature_importance_d.items(), key=lambda kv: kv[1], reverse=True)[:25]:
         print(f"feature: {key}, importance: {value}")
 
+def produce_x_test_df_with_predictions(clf_model, X_test, X, y, y_pred):
+    X_test['y_pred'] = y_pred
+    original_x_test_only = X.loc[X_test.index]
+    original_y_test_only = y.loc[X_test.index]
+    original_x_test_only['y_pred'] = X_test['y_pred']
+    original_x_test_only['y_test'] = original_y_test_only
+    print("Sanity check, report scores should be the same")
+    _, report, _= clf_model.evaluate(y_true=original_x_test_only['y_test'],
+                                                              y_pred=original_x_test_only['y_pred'])
+    print(report)
+    original_x_test_only.to_csv("resources" + os.sep + "X_test_with_predictions.csv", index=False)
+
 
 if __name__ == '__main__':
     main()
