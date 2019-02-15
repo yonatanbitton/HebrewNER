@@ -21,6 +21,8 @@ from constants import LOGISTIC_REGRESSION_MODEL, PASSIVE_AGGRESSIVE_MODEL, DECIS
 
 number_of_found_word_vecs = 0
 number_of_not_found_word_vecs = 0
+nouns_count = 0
+proper_names_count = 0
 
 class ClfModel:
     def __init__(self, model_type):
@@ -229,6 +231,8 @@ class FeatureExtractor(TransformerMixin):
         print(f"percent of words without vects: "
               f"{number_of_not_found_word_vecs / (number_of_found_word_vecs + number_of_not_found_word_vecs)}")
 
+        print(f"nouns_count: {nouns_count}, proper_names_count: {proper_names_count}, number_of_not_found_word_vecs: { number_of_not_found_word_vecs }")
+
         df = pd.DataFrame(X)
         return df
 
@@ -240,6 +244,14 @@ class FeatureExtractor(TransformerMixin):
         else:
             curr_row_data['TokenVector'] = [float(0)] * 300
             number_of_not_found_word_vecs += 1
+            if curr_row_data['Pos'] == 'noun':
+                global nouns_count
+                nouns_count += 1
+            if curr_row_data['Pos'] == 'properName':
+                global proper_names_count
+                proper_names_count += 1
+
+
 
     def convert_vectors_to_features(self, prev_row_data, curr_row_data, next_row_data, include_contex):
             for i in range(self.VECTOR_SIZE):  # vector size
@@ -368,7 +380,7 @@ def load_local_dataset():
 
 
 def main():
-    LOAD_READY_DATASET = True
+    LOAD_READY_DATASET = False
     model_type = SVM_MODEL
     print(f"model_type: {model_type}")
     print(f"LOAD_READY_DATASET: {LOAD_READY_DATASET}")
