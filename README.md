@@ -2,17 +2,18 @@
 
 This project was made by Yonatan Bitton, Assaf Peleg, and Benjamin Berend. Students at Natural Language Processing Course tought by Prof. Michael Elhadad.
 Our mission was NER - Named Entity Recognition. 
-
+```sh
 NER defenition from Wikipedia: 
-> Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entity mentions in unstructured text into pre-defined categories such as the person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
+
+Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entity mentions in unstructured text into pre-defined categories such as the person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 Most research on NER systems has been structured as taking an unannotated block of text, such as this one:
 
-> Jim bought 300 shares of Acme Corp. in 2006.
+Jim bought 300 shares of Acme Corp. in 2006.
 
-> And producing an annotated block of text that highlights the names of entities:
+And producing an annotated block of text that highlights the names of entities:
 
-> [Jim]Person bought 300 shares of [Acme Corp.]Organization in [2006]Time.
-
+[Jim]Person bought 300 shares of [Acme Corp.]Organization in [2006]Time.
+```
 We present to you four IPython notebooks: 
 
 1. Phase1_DataPreperationAndExploration - Making the dataset (Tokenization, obtaining POS & Morphological attributes), exploring the dataset's attributes, etc.
