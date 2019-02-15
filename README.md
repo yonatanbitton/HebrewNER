@@ -2,9 +2,10 @@
 
 This project was made by Yonatan Bitton, Assaf Peleg, and Benjamin Berend. Students at Natural Language Processing Course tought by Prof. Michael Elhadad.
 Our mission was NER - Named Entity Recognition. 
-```sh
+
 NER defenition from Wikipedia: 
 
+```sh
 Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entity mentions in unstructured text into pre-defined categories such as the person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 Most research on NER systems has been structured as taking an unannotated block of text, such as this one:
 
