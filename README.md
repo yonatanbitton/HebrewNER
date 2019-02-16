@@ -1,6 +1,6 @@
 # NLP Project BGU - Named Entity Recognition 
 
-This project was made by Yonatan Bitton, Assaf Peleg, and Benjamin Berend. Students at Natural Language Processing Course tought by Prof. Michael Elhadad.
+This project was made by Yonatan Bitton, Assaf Peleg, and Benjamin Berend. Students at Natural Language Processing Course taught by Prof. Michael Elhadad.
 Our mission was NER - Named Entity Recognition. 
 
 NER defenition from Wikipedia: 
