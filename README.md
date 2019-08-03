@@ -19,7 +19,7 @@ We present to you four IPython notebooks:
 
 1. Phase1_DataPreperationAndExploration - Making the **dataset** (Tokenization, obtaining POS & Morphological attributes), exploring the dataset's attributes, etc.
 2. Phase2_ML - **Machine learning** method solving our task with performance - **f1-score of 82%** without 'O' tag and 96% with the 'O' tag.
-3. Phase3_DL - **Deep learning** method solving our task with performance - **f1-score of 88%** without 'O' tag and 98% with the 'O' tag.
+3. Phase3_DL - **Deep learning** method solving our task with performance - **f1-score of 90%** without 'O' tag and 98% with the 'O' tag.
 4. Phase4_ErrorAnalysis - Understand the main causes for **errors** and what is possible to do in order to overcome them. 
 
 ### Prerequisites
